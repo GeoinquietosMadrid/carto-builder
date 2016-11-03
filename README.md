@@ -7,9 +7,9 @@
 ## Detalles
 
 * Fecha: 5 de noviembre de 2016
-* Duración: 3h, de 10 a 13h.
+* Duración: 3h, de 10 a 13h
 * Lugar: Auditorio, Medialab-Prado (Calle de la Alameda, 15, 28014 Madrid)
-* Instructores: Ernesto Martínez, Ramiro Aznar, Jorge Sanz y Andrew Thompson.
+* Instructores: Ernesto Martínez, Ramiro Aznar, Jorge Sanz y Andrew Thompson
 
 ## Recursos
 
