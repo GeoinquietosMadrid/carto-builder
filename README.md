@@ -1,6 +1,8 @@
 # Taller Introducción al CARTO BUILDER
 
-[**http://bit.ly/geoinq-builder**](http://bit.ly/geoinq-builder)
+![builder](img/builder.png)
+
+## [**http://bit.ly/geoinq-builder**](http://bit.ly/geoinq-builder)
 
 ## Detalles
 
