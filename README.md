@@ -17,4 +17,4 @@
 * [Introducción a GeoInquietos Madrid](http://slides.com/ramiroaznar/postgis-cartocss-3/fullscreen)
 * [Introducción a CARTO](https://docs.google.com/presentation/d/1pznaIkdXFeXaHL14TFBkZGZDmBEOHH3YVzFIgdrBz_A/edit?usp=sharing)
 * [Introducción a Builder](https://docs.google.com/presentation/d/1QfI_86qr5c9c1qE76bZR86Q6mCs2Vn357lMPwBmna6Y/edit?usp=sharing)
-* [Taller práctico](http://bit.ly/161105-intro-builder)
+* [Taller práctico](http://bit.ly/161105-geoinq-builder)
