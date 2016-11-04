@@ -15,5 +15,5 @@
 
 * [Meetup](https://www.meetup.com/es-ES/Geoinquietos-MAD/events/234912577/)
 * [Introducción a GeoInquietos Madrid](http://slides.com/ramiroaznar/postgis-cartocss-3/fullscreen)
-* [Introducción a CARTO](https://docs.google.com/presentation/d/1pznaIkdXFeXaHL14TFBkZGZDmBEOHH3YVzFIgdrBz_A/edit?usp=sharing)
+* [Introducción a CARTO y BUILDER](https://docs.google.com/presentation/d/1pznaIkdXFeXaHL14TFBkZGZDmBEOHH3YVzFIgdrBz_A/edit?usp=sharing)
 * [Taller práctico](http://bit.ly/161105-geoinq-builder)
